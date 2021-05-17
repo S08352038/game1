@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{130AB0FF-B50A-C938-6CF9-F0F0B6A2E468}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/spawn.cs">
+    <Files>
+      <File FileName="Assets/look.cs" Line="7" Column="29" />
+      <File FileName="Assets/move.cs" Line="26" Column="83" />
+      <File FileName="Assets/enemy.cs" Line="24" Column="31" />
+      <File FileName="Assets/spawn.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gameplay Mechanics" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="20a45f37-759a-4a78-9797-98963aa2f2be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
